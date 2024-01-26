@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="h_v_t_n">Họ và tên</string>
+    <string name="s_i_n_tho_i">Số điện thoại</string>
+    <string name="nam">Nam</string>
+    <string name="n">Nữ</string>
+    <string name="add">Add</string>
+</resources>
